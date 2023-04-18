@@ -66,7 +66,7 @@ def day_trip_check():
      user_input = input(f"Are you sure you happy with the trip planned?" )
      if user_input == "yes":
         user_is_happy = True
-        print ("Have a great day on your trip!")
+        print ("Have a great day on your trip!"  )
      day_trip_destination()  
      day_trip_entertainment()
      day_trip_transportation()
